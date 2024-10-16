@@ -1,0 +1,12 @@
+#form-container {
+  max-width: 500px;
+  margin-inline: auto;
+}
+.done {
+  text-decoration: line-through;
+}
+li {
+  display: inline-block;
+  margin-top: 10px;
+  margin-right: 10px;
+}
